@@ -22,17 +22,18 @@ The test image dataset are sampled from this [link](https://www.cs.toronto.edu/~
 * Back propagation comparing between Python Package and C without Package just raw programming
 
 ## DONE
-* forward propagation C coding(CNN, LightNormalization, Relu, Pool, Depthwise-CNN, Pointwise-CNN, Affine, Softmax)
-* Python Package programming study
 * [Paper](https://arxiv.org/abs/1704.04861)
+* Python Package programming study
+* forward propagation C coding(CNN, LightNormalization, Relu, Pool, Depthwise-CNN, Pointwise-CNN, Affine, Softmax)
 * Comparing layer by layer
 * inference 1 dataset (cifar10)
-* Input 
 * valid dataset
+* Get Input Image about Normal airplane
+
 
 > Image Input
 
- ** Upscale  Factor is 2**
+ ** Input size Reduction **
 
 - 788 * 526 size image source
 <table>
