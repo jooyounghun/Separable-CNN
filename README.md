@@ -1,4 +1,4 @@
-# Python to C++ Project on Separable-CNN in MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+# Python to C++ Project on Separable-CNN in MobileNets Paper.
 ___
 ## Introduction
 we propose what point affect to accuracy from between Python Package and C raw programming without Package.
@@ -30,24 +30,27 @@ The test image dataset are sampled from this [link](https://www.cs.toronto.edu/~
 * Input 
 * valid dataset
 
-> Image Results
-
-The left is C coding Input Image 32*32, and
-the right is Predition result.
+> Image Input
 
  ** Upscale  Factor is 2**
 
-- 788 * 526 size
+- 788 * 526 size image source
 <table>
   <tr>
     <td>
      <img src="image/airplane788_526.JPG"/>
     </td>
-    <td>
-     <img src="image/airplane32_32.jpg"/>
-    </td>
   </tr>
 </table>
+
+- 32 * 32 size input
+
+<tr>
+  <td>
+    <img src="image/airplane32_32.jpg"/>
+  </td>
+</tr>
+  
 
 
 
