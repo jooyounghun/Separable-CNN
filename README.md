@@ -12,7 +12,7 @@ we propose what point affect to accuracy from between Python Package and C raw p
 
 ## Datasets
 
-### Train、Val Dataset
+### Train Image Dataset
 - download dataset from this [link](https://www.cs.toronto.edu/~kriz/cifar.html) and put it in this project
 
 ### Test Image Dataset
@@ -44,12 +44,13 @@ The test image dataset are sampled from this [link](https://www.cs.toronto.edu/~
 </table>
 
 - 32 * 32 size input
-
-<tr>
-  <td>
-    <img src="image/airplane32_32.jpg"/>
-  </td>
-</tr>
+<table>
+  <tr>
+    <td>
+      <img src="image/airplane32_32.jpg"/>
+    </td>
+  </tr>
+</table>
   
 
 
